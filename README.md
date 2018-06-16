@@ -14,8 +14,6 @@ You probably:
 * Follow the txt/bat files. Adjust as needed.
 
 ## Remarks
-Sorry about perl. Can't avoid it. But it's free and simple.
-
 Diffing is very easy if you're using git (version control software). Otherwise have a look at the steps and manage without.
 
 It's for Windows so you might have to translate the batch files to shell scripts.
